@@ -1,4 +1,4 @@
-# Welcome to Jekyll! 
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open robotics academy list"
+title                    : "Open robot academy list"
 title_separator          : "-"
-name                     : &name "Roger"
-description              : &description "A robot fan"
+name                     : &name "Roger Q"
+description              : &description "Robot fan"
 url                      : https://openroboacademy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "openroboacademy/openroboacademy.github.io"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "openroboacademy"
+  github           : # "openroboacademy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -174,25 +174,25 @@ kramdown:
 
 
 # Collections
- collections:
-   teaching:
-     output: true
-     permalink: /:collection/:path/
-   publications:
-     output: true
-     permalink: /:collection/:path/
-   portfolio:
-     output: true
+collections:
+  teaching:
+    output: true
     permalink: /:collection/:path/
-   talks:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
- defaults:
+defaults:
   # _posts
-   - scope:
+  - scope:
       path: ""
       type: posts
     values:
@@ -203,7 +203,7 @@ kramdown:
       share: true
       related: true
   # _pages
-   - scope:
+  - scope:
       path: ""
       type: pages
     values:
@@ -252,7 +252,7 @@ sass:
 
 
 # Outputting
-# permalink: /:categories/:title/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
