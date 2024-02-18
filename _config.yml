@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roger Q"
   avatar           : "profile.png"
-  bio              : "I used to work in global industrial/robot company, unicorn startup of robotics automation, GAFA, etc. Also studied mechanical/robotics programs in JP/US top-tier universities. Feel free to contact me if you have questions"
+  bio              : "I used to work in global industrial/robot company, unicorn startup of robotics automation, GAFA, etc. Also studied mechanical/robotics programs in JP/US top-tier universities. Feel free to contact me if you have questions\n Profile Pic is Nichijou Hakase"
   location         : "Tokyo/Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "openroboacademy"
+  github           :  "openroboacademy"
   google_plus      :
   keybase          :
   instagram        :
