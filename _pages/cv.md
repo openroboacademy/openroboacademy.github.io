@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-中文版列表
-======
-<!--
+# 中文版列表
+===
+
 **MIT**-CSAIL/MECHE: [Home Page \| MIT CSAIL](https://www.csail.mit.edu/) / [MIT Department of Mechanical Engineering](https://meche.mit.edu/) 涵盖了目前机器人前沿领域的多个方向，波士顿动力发源于以前的legLab，以及Cheetah开源项目等。
 
 -   CDFG，[Homepage](https://cdfg.mit.edu/) 视觉/机器学习/控制优化
@@ -3685,6 +3685,7 @@ Computational Robotics Research Group，[Computational Robotics Research Group a
 -   Kevin I-Kai Wang，<https://profiles.auckland.ac.nz/kevin-wang/about> 导航&定位/multi-agent/机器学习
 
 \<- To Be Continued
--->
+
 ![K1.jpg](/images/K1.jpg)
 ![K2.jpg](/images/K2.jpg)
+   In memory of Kobe Bryant
