@@ -13,13 +13,13 @@ redirect_from:
 &emsp;
 
 This is a list of robotics-related research groups/labs or individual researchers in some famous Universities. The scope mainly covers robotics control/robot learning and machine learning/robotics computer vision/Autopilot/UAV. Also included Control Theory/HRI/HCI/HMI/AR/VR/XR/Remote Sensing/Additive Manufacturing, etc.. Basically, I will check on group/lab's research/project Thema, or very recent publications. I will update the list as most researchers/groups are dynamic.
----
+
 
 &emsp;
 &emsp;
 
 The main purpose of this list is to help people (typically graduate school applicant) to have a general understanding of trends in robotics research. And a quick filter for different research topics. NOTE: My classification or topic keyword is depending on homepage contents, it could be out of date. Please contact the group directly if you want to confirm. Also, feel free to let me know if there is incorrect info in the list.
----
+
 
 &emsp;
 &emsp;
