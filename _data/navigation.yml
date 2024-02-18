@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "cn_ver"
-    url: /cn_ver/
+  - title: "CN ver"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
