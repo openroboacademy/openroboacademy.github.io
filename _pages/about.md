@@ -49,6 +49,7 @@ The main purpose of this list is to help people (typically graduate school appli
 - Legged robotics:足式机器人:脚型ロボット -> Mainly refer to robot moving with multiple legs. Also, some labs are focusing on Biped/Quadruped Robotics.
 - Dexterity:灵巧操作:巧緻性操作 -> This mainly refer to Robot operating of delicate missions, sometimes it refers to dual manipulator operation
 - BCI/Brain Computer Interface:脑机接口:脳コンピューターインターフェース -> Is a direct communication pathway between the brain's electrical activity and an external device, most commonly a computer or robotic limb
+
 ---
 
 &emsp;
