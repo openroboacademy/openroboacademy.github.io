@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+&emsp;
+&emsp;
+&emsp;
+
 # 中文版列表
 ===
 
@@ -3685,7 +3689,12 @@ Computational Robotics Research Group，[Computational Robotics Research Group a
 -   Kevin I-Kai Wang，<https://profiles.auckland.ac.nz/kevin-wang/about> 导航&定位/multi-agent/机器学习
 
 \<- To Be Continued
+---
 
+&emsp;
+&emsp;
+&emsp;
 ![K1.jpg](/images/K1.jpg)
 ![K2.jpg](/images/K2.jpg)
+&emsp;
    In memory of Kobe Bryant
