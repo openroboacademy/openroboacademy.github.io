@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-
+&emsp;
+&emsp;
+&emsp;
 
 This is a list of robotics-related research groups/labs or individual researchers in some famous Universities. The scope mainly covers robotics control/robot learning and machine learning/robotics computer vision/Autopilot/UAV. Also included Control Theory/HRI/HCI/HMI/AR/VR/XR/Remote Sensing/Additive Manufacturing, etc.. Basically, I will check on group/lab's research/project Thema, or very recent publications. I will update the list as most researchers/groups are dynamic.
 ---
 
+&emsp;
+&emsp;
+
 The main purpose of this list is to help people (typically graduate school applicant) to have a general understanding of trends in robotics research. And a quick filter for different research topics. NOTE: My classification or topic keyword is depending on homepage contents, it could be out of date. Please contact the group directly if you want to confirm. Also, feel free to let me know if there is incorrect info in the list.
 ---
 
+&emsp;
+&emsp;
 
 **Tips**
 - The list item is in format: lab/group name or researcher, page link, topics/keyword
@@ -23,6 +30,8 @@ The main purpose of this list is to help people (typically graduate school appli
 - I did not list some labs because I know very limited info about them
 - I like the homepage design of Princeton University and Aalto University
 
+&emsp;
+&emsp;
 
 **Topics/Keyword**
 - ML(Machine Learning):机器学习:機械学習 -> Refer to use machine learning-related methods applied to control or vision
@@ -40,8 +49,12 @@ The main purpose of this list is to help people (typically graduate school appli
 - Legged robotics:足式机器人:脚型ロボット -> Mainly refer to robot moving with multiple legs. Also, some labs are focusing on Biped/Quadruped Robotics.
 - Dexterity:灵巧操作:巧緻性操作 -> This mainly refer to Robot operating of delicate missions, sometimes it refers to dual manipulator operation
 - BCI/Brain Computer Interface:脑机接口:脳コンピューターインターフェース -> Is a direct communication pathway between the brain's electrical activity and an external device, most commonly a computer or robotic limb
+---
 
-
+&emsp;
+&emsp;
+&emsp;
+&emsp;
 
 # The List
 ---
