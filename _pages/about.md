@@ -3724,11 +3724,13 @@ Computational Robotics Research Group - [Computational Robotics Research Group a
 · Kevin I-Kai Wang - <https://profiles.auckland.ac.nz/kevin-wang/about> - Navigation/Localization/Multi-Agent/Machine Learning
 
 \<- To Be Continued
+---
 
 &emsp;
 &emsp;
 &emsp;
+
 ![K1.jpg](/images/K1.jpg)
 ![K2.jpg](/images/K2.jpg)
 &emsp;
-   In memory of Kobe Bryant
+    In memory of Kobe Bryant
