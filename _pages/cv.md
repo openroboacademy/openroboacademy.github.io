@@ -3686,5 +3686,5 @@ Computational Robotics Research Group，[Computational Robotics Research Group a
 
 \<- To Be Continued
 -->
-![200x200.jpg](/images/K1.jpg)
-![200x200.jpg](/images/K2.jpg)
+![K1.jpg](/images/K1.jpg)
+![K2.jpg](/images/K2.jpg)
