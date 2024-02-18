@@ -1698,8 +1698,6 @@ Computational Robotics Research Group，[Computational Robotics Research Group a
 
 -   3D PRINTING LABORATORY，[Laboratório de Impressão 3D](http://www.sem.eesc.usp.br/sem/index.php/pt/laboratorios/3d) 增材制造
 
-### 
-
 **Cambridge**-[Mobile Systems, Robotics and Automation](https://www.cst.cam.ac.uk/research/themes/mobile-systems-robotics-and-automation)
 
 -   AFAR，[AFAR](https://cambridge-afar.github.io/) 机器学习/认知与交互
