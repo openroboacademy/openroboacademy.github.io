@@ -2725,6 +2725,7 @@ Computational Robotics Research Group，[Computational Robotics Research Group a
 -   Design and enginerring ROBOTICS & MACHINE INTELLIGENCE，<https://cde.nus.edu.sg/research/robotics-machine-intelligence/> 嵌入式系统感知/HRI/机器学习/运动规划与控制/智能机械/设备通讯
 
 -   CS AI，<https://www.comp.nus.edu.sg/cs/research/ai/> HRI&决策论/multi-agent robot systems/机器学习/视觉
+-   Lin Shao，[Lin Shao](https://linsats.github.io/)  感知/Manipulation/机器学习/Grasping/视觉/Robot Learning/Dexterity
 
 **NTU**-[College of Engineering (COE)](https://www.ntu.edu.sg/engineering/home)
 
