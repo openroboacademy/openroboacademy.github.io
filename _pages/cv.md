@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CN ver"
+title: "中文版列表"
 permalink: /cv/
 author_profile: true
 redirect_from:
